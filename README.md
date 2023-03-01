@@ -1,6 +1,6 @@
 # python_bootcamp
 
-42AI [subject](https://github.com/42-AI/bootcamp_python)
+42AI [subject](https://github.com/42-AI/bootcamp_python).
 
 In this python bootcamp we learn about the use of python and its specific libraries in relation to data-science such as numpy and pandas.<br>
 Numpy is a library, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.<br>
