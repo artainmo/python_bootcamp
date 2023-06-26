@@ -15,3 +15,4 @@ Here are extra resources to learn more about programming in python that present 
 * [stackoverflow - How do I pass a variable by reference?](https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference)<br>
 * [artainmo - minishell unittest](https://github.com/artainmo/minishell-unittest)<br>
 * [artainmo - NeuralNetworkLib](https://github.com/artainmo/NeuralNetworkLib)<br>
+* [geeksforgeeks - Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
