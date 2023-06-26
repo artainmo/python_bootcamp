@@ -16,3 +16,4 @@ Here are extra resources to learn more about programming in python that present 
 * [artainmo - minishell unittest](https://github.com/artainmo/minishell-unittest)<br>
 * [artainmo - NeuralNetworkLib](https://github.com/artainmo/NeuralNetworkLib)<br>
 * [geeksforgeeks - Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
+* [stackoverflow - Explicitly Define Datatype in Python Function](https://stackoverflow.com/questions/43233535/explicitly-define-datatype-in-python-function)
