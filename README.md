@@ -17,3 +17,4 @@ Here are extra resources to learn more about programming in python that present 
 * [artainmo - NeuralNetworkLib](https://github.com/artainmo/NeuralNetworkLib)<br>
 * [geeksforgeeks - Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
 * [stackoverflow - Explicitly Define Datatype in Python Function](https://stackoverflow.com/questions/43233535/explicitly-define-datatype-in-python-function)
+* [grepper - private class methods](https://www.grepper.com/answers/203805/private+class+method+python?ucard=1)
