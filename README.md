@@ -11,8 +11,9 @@ Python and its data-science libraries numpy and pandas have implications for AI.
 To learn more about the learned theory, read the code and its comments. Research what you don't understand.
 
 Here are extra resources to learn more about programming in python that present notions lacking in this bootcamp.
-* [geeksforgeeks - copy in Python (Deep Copy and Shallow Copy)](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)<br>
+* [Is Python call by reference or call by value](https://www.geeksforgeeks.org/is-python-call-by-reference-or-call-by-value/)
 * [stackoverflow - How do I pass a variable by reference?](https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference)<br>
+* [geeksforgeeks - copy in Python (Deep Copy and Shallow Copy)](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)<br>
 * [artainmo - minishell unittest](https://github.com/artainmo/minishell-unittest)<br>
 * [artainmo - NeuralNetworkLib](https://github.com/artainmo/NeuralNetworkLib)<br>
 * [geeksforgeeks - Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
